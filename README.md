@@ -1,5 +1,5 @@
 # Toxis
-a university game project i developed as part of a group assessed assignment!
+a university game project i developed as part of a group assessed assignment!<br />
 _(website link: https://malgow.net/UniversityProjects#gamesGroupCoursework )_ <br />
 
  ![preview image 1](https://raw.githubusercontent.com/malgow/universityProject-Toxis/main/previewImage1.png)
